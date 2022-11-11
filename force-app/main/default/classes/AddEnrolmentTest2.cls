@@ -37,7 +37,7 @@ private class AddEPnrolmentTest2 {
         // Check that enrolment was returned                     	
         System.assertNotEquals(enrolmentList.size(), 0);
         
-    }	
+    }
     
 }
 
